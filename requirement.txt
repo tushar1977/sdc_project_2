@@ -1,2 +1,0 @@
-model :
-sno, pdf , date, `
